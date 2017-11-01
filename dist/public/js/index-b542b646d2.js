@@ -1,1 +1,0 @@
-$("#img3").attr("src","public/img/pic_kj1@3x-9d49fb2b0c.png"),console.log(789456123);
